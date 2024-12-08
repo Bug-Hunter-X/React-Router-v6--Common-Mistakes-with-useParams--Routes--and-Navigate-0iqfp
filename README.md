@@ -1,0 +1,1 @@
+This repository demonstrates common errors encountered when using React Router v6, specifically focusing on the `useParams`, `Routes`, and `Navigate` components.  The `bug.js` file showcases incorrect implementations, while `bugSolution.js` provides the corrected versions with explanations.
